@@ -1,3 +1,6 @@
+; Creates a Win32 GUI windows using assembly langauge
+; (C) Asesh Shrestha. All rights reserved
+
 .386
 .model flat, stdcall
 option casemap:none
