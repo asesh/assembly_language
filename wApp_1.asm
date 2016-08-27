@@ -1,4 +1,7 @@
-.586
+; Create a Win32 GUI window using assembly language
+; (C) Asesh Shrestha. All rights reserved
+
+.386
 .model flat, stdcall
 option casemap:none
 
